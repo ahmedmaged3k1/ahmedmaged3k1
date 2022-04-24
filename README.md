@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Maged Kamal</h1>
 <h3 align="center">A passionate mobile developer from Egypt</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ahmedmaged3k1anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m Junior at **at Faculty of Computers & Information at Ain Shams University**
 
