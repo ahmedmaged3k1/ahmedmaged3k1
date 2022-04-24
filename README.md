@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmaged3k1&show_icons=true&locale=en&layout=compact" alt="ahmedmaged3k1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaged3k1&theme=dark&show_icons=true" alt="ahmedmaged3k1" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmaged3k1)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaged3k1)](https://github.com/anuraghazra/github-readme-stats" alt="ahmedmaged3k1" /></p>
+
