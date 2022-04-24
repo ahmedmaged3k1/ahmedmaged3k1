@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Maged Kamal</h1>
 <h3 align="center">A passionate mobile developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmaged3k1" alt="ahmedmaged3k1" /></a> </p>
-
 - 🔭 I’m Junior at **at Faculty of Computers & Information at Ain Shams University**
 
 - 🌱 I’m currently learning **Mobile Development**
@@ -11,7 +9,7 @@
 
 - 📫 How to reach me **ahmedmaged3k1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XJdpuLLvpMT-wNYjpDOrv_UNxq4SwdYV/view?usp=sharing](https://drive.google.com/file/d/1XJdpuLLvpMT-wNYjpDOrv_UNxq4SwdYV/view?usp=sharing)
+- 📄 Know about my experiences from my Resume : [https://drive.google.com/file/d/1XJdpuLLvpMT-wNYjpDOrv_UNxq4SwdYV/view?usp=sharing](https://drive.google.com/file/d/1XJdpuLLvpMT-wNYjpDOrv_UNxq4SwdYV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmaged3k1&show_icons=true&locale=en&layout=compact" alt="ahmedmaged3k1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaged3k1&show_icons=true&locale=en" alt="ahmedmaged3k1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaged3k1&" alt="ahmedmaged3k1" /></p>
