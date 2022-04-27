@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Maged </h1>
 <h3 align="center">A passionate mobile developer from Egypt</h3>
+![](https://komarev.com/ghpvc/?username=ahmedmaged3k1)
 
 - 🔭 I’m Junior at **at Faculty of Computers & Information at Ain Shams University**
 
