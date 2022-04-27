@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Maged </h1>
-<h3 align="center">A passionate mobile developer from Egypt</h3>
+<h3 align="center">A passionate software engineering student  from Egypt</h3>
 <p><img align="center" src="https://komarev.com/ghpvc/?username=ahmedmaged3k1" alt="ahmedmaged3k1" /></p>
 
 - 🔭 I’m Junior at **at Faculty of Computers & Information at Ain Shams University**
